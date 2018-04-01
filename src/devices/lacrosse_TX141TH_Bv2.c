@@ -196,3 +196,4 @@ r_device lacrosse_TX141TH_Bv2 = {
     .disabled      = 0,
     .fields        = output_fields,
 };
+
